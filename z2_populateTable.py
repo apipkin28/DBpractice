@@ -10,4 +10,6 @@ def add_movie(title, director, year, genre):
     conn.commit()
     print("Movie added :)")
 
-add_movie("Inception","Christopher Nolan", 2010,"Sci-Fi")
+#template for adding new movies:
+#add_movie("Inception","Christopher Nolan", 2010,"Sci-Fi")
+#do not run the above. Inception has already been added.
